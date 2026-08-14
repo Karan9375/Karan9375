@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+```
 name: Karan Kamble
 role: Student | Aspiring Data Scientist & ML Engineer
 location: India 🇮🇳
@@ -142,6 +142,19 @@ fun_fact: I believe data tells stories — I'm learning to be the storyteller �
 </p>
 
 <br />
+## 🏆 Certifications & Coding Profiles
+<p align="center">
+  <a href="https://github.com/Karan9375">
+    <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg/?username=Karan9375&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Python , Problem Solving" />
+    <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg/?username=Karan9375&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10" alt="SQL, Problem Solving" />
+    
+    '📊 View my HackerRank profile: https://www.hackerrank.com/profile/karankamble0079
+    
+  </a>
+</p>
+
+<br />
+
 
 <!-- ========== TROPHIES ========== -->
 
